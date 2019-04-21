@@ -1,0 +1,2 @@
+5	Nescafe	Beverages	123412341	nescafe@gmail.com	Ab1
+7	Amul	Snacks	999899	amul@gmail.com	AB1

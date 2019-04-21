@@ -1,0 +1,5 @@
+2	abhinay	1234
+3	Mahesh	0987
+5	Nescafe	4342
+6	Vikas	1111
+7	Amul	2222
